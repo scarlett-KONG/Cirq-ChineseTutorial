@@ -6,7 +6,8 @@
 交流请邮件联系： scarlett.kong.01@gmail.com
 
 目录
- * [入门-01](./入门/01.md)
+ * [入门](./入门)
+    * [01-简介与安装](./入门/01.md)
  * [dir2](./dir2)
    * [file21.ext](./dir2/file21.ext)
    * [file22.ext](./dir2/file22.ext)
