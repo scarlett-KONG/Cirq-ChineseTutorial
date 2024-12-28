@@ -1,7 +1,7 @@
 # Cirq中文手册
 ## 使用Cirq学习量子计算 - 翻译版
 
-译者：自牧
+译：AI翻译 人工审核
 
 交流请邮件联系： scarlett.kong.01@gmail.com
 
