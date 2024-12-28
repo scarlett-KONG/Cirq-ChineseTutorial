@@ -8,9 +8,9 @@
 目录
  * [入门](./入门)
     * [01-简介与安装](./入门/01.md)
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
-   * [file22.ext](./dir2/file22.ext)
+ * [构建](./构建)
+   * [电路 Circuit](./构建/01-Circuits.ipynb)
+   * [量子比特 Qubit](./构建/02-Qubits.ipynb)
    * [file23.ext](./dir2/file23.ext)
  * [dir1](./dir1)
    * [file11.ext](./dir1/file11.ext)
